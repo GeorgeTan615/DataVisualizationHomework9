@@ -1,4 +1,4 @@
-var vg_1 = "police_fatalities.json";
+var vg_1 = "choropleth_map2_withzoomslider_not_working.json";
 vegaEmbed("#choropleth_map", vg_1).then(function(result) {
  // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
